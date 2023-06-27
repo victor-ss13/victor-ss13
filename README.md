@@ -20,7 +20,7 @@
 
 ##
 
-![Snake animation](https://github.com/victor-ss13/victor-ss13/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/victor-ss13/victor-ss13/blob/output/github-contribution-grid-snake.svg) !-->
 
 ##
 
