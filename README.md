@@ -3,7 +3,7 @@
 
 
 - 🔭 Estudante de programação (Fullstack Developer)
-- 🌱 Atualmente aprendendo C# com .NET
+- 🌱 Atualmente aprendendo C# com .NET e Angular Framework
 - 💬 Fique à vontade para me fazer perguntas. Responderei o que estiver ao meu alcance e buscarei aprender o que ainda não sei!
 - 📫 Minhas redes sociais e e-mail estarão listados logo abaixo 😅
 - ⚡ Fun fact: conheci a programação por acaso no início de 2023 e desde então me apaixonei pela área!
